@@ -31,7 +31,7 @@ I'm currently working on a simple sudoku solver for those of us who want to seem
 <img height=250 src="Screenshot 2024-10-22 152456.png"/>
 <img height=250 src="Screenshot 2024-10-24 210822.png"/>
 <img height=250 src="Screenshot 2024-11-12 113022.png"/>
-<img height=250 src="trafficlock app.png"/>
+<img height=250 src="alarm final.png"/>
 </div>
 
 ### ★ Top Contributed Repo
