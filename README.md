@@ -4,6 +4,7 @@
 # ✿ About Me:
 I'm currently working on a simple sudoku solver for those of us who want to seem smart (but can't quite get them finished (∩‿∩)  ).<br>I love gaming and at the moment, I am aiming to recreate a game I created on scratch 5 years ago called SpaceDog!<br>Music is a passion of mine and I love to create playlists dedicated to the current project. (See my current project playlist below!)
 
+<img align=center src="6d9c49c24dfc3f01420c0bbca656078e.gif"/>
 
 # ♡ Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -23,6 +24,10 @@ I'm currently working on a simple sudoku solver for those of us who want to seem
 
 ### ✧ Project ScreenShots
 <div style="display: flex; gap: 25px;">
+<img height=250 src="Screenshot 2024-08-18 220927.png"/>
+<img height=250 src="Screenshot 2024-08-22 121823.png"/>
+<img height=250 src="Screenshot 2024-08-23 154547.png"/>
+<img height=250 src="Screenshot 2024-10-22 152456.png"/>
 <img height=250 src="Screenshot 2024-10-24 210822.png"/>
 <img height=250 src="Screenshot 2024-11-12 113022.png"/>
 </div>
