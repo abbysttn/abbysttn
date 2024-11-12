@@ -5,13 +5,13 @@
 I'm currently working on a simple sudoku solver for those of us who want to seem smart (but can't quite get them finished (∩‿∩)  ).<br>I love gaming and at the moment, I am aiming to recreate a game I created on scratch 5 years ago called SpaceDog!<br>Music is a passion of mine and I love to create playlists dedicated to the current project. (See my current project playlist below!)
 
 <div align="center">
-<img height=200 src="7fcf37c760d468cdbd546c0c1d6680c8.gif"/>
-  <br>
-  <br>
-  <br>
-<a href="https://open.spotify.com/playlist/5LgyCQo1t2IShYWBAcK3LC">
+  <a href="https://open.spotify.com/playlist/5LgyCQo1t2IShYWBAcK3LC">
   <img src="icons8-spotify-48.png">
 </a>
+  <br>
+  <br>
+  <br>
+<img height=200 src="7fcf37c760d468cdbd546c0c1d6680c8.gif"/>
 </div>
 
 
