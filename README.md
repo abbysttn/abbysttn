@@ -6,8 +6,11 @@ I'm currently working on a simple sudoku solver for those of us who want to seem
 
 <div align="center">
 <img height=200 src="7fcf37c760d468cdbd546c0c1d6680c8.gif"/>
-<a href="https://open.spotify.com/playlist/5LgyCQo1t2IShYWBAcK3LC">
-  <img src="https://icons8.com/icon/63316/spotify">
+  <br>
+  <br>
+  <br>
+<a href="https://open.spotify.com/playlist/5LgyCQo1t2IShYWBAcK3LC" target="_blank">
+  <img src="icons8-spotify-48.png">
 </a>
 </div>
 
