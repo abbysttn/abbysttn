@@ -9,7 +9,7 @@ I'm currently working on a simple sudoku solver for those of us who want to seem
   <br>
   <br>
   <br>
-<a href="https://open.spotify.com/playlist/5LgyCQo1t2IShYWBAcK3LC" target="_blank" rel="noopener noreferrer">
+<a href="https://open.spotify.com/playlist/5LgyCQo1t2IShYWBAcK3LC">
   <img src="icons8-spotify-48.png">
 </a>
 </div>
