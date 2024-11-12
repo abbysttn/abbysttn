@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=8FA6CB&center=true&vCenter=true&multiline=false&repeat=false&random=false&width=1300&height=140&lines=✿+Hi+There!+Welcome+To+My+Profile!+✿" width="70%" align="center"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=8FA6CB&center=true&vCenter=true&multiline=false&repeat=false&random=false&width=1300&height=140&lines=✿+Hi+There!+Welcome+To+My+Profile!+✿" width="100%"/>
+</div>
 <br><br>
 
 # ✿ About Me:
